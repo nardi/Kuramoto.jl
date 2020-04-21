@@ -1,0 +1,5 @@
+[deps]
+Distributions = "31c24e10-a181-5473-b8eb-7969acd0382f"
+DynamicalSystems = "61744808-ddfa-5f27-97ff-6e42cc95d634"
+Random = "9a3f8284-a2c9-5f02-9a11-845980a1fd5c"
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
